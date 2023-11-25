@@ -5,7 +5,8 @@
  Go To Terminal and `cd` into Project Folder
  ```
 pip3 install -q tensorflow-recommenders
-
+```
+```
 pip3 install -q --upgrade tensorflow-datasets
 ```
 and then
